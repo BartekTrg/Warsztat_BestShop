@@ -17,6 +17,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: var(--font-opensans);
+}
+
 a {
     text-decoration: none;
 }
